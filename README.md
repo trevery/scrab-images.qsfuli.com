@@ -8,7 +8,23 @@ To install bs4, use command bellow.
 ```
 $ pip3 install beautifulsoup4
 ```
+## Clone 
+
+In your command line. Clone this repo by using:
+
+```
+$ git clone "https://github.com/trevery/scrab-images.qsfuli.com/"
+```
+
+
 ## Run this script
+
+First, change directory to this folder
+
+```
+$ cd scrab-images.qsfuli.com
+```
+
 To run this script, please use formate bellow:
 
 $ python3 getImageUrl.py NAME TOTAL_NUM
