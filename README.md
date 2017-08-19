@@ -19,6 +19,6 @@ TOTAL_NUM is the number of pages you want to scrap.
 
 For example:
 ```
-$ python getImageUrl.py qbyhx 100
+$ python getImageUrl.py qbyhx 2
 ```
 will scrap http://images.qsfuli.com/category/tumblr/qbyhx/ for 0 - 100 pages.
