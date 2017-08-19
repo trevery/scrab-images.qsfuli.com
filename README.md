@@ -21,4 +21,4 @@ For example:
 ```
 $ python getImageUrl.py qbyhx 100
 ```
-will scrap https://images.qsfuli.com/qbyhx/ for 0 - 100 pages.
+will scrap http://images.qsfuli.com/category/tumblr/qbyhx/ for 0 - 100 pages.
